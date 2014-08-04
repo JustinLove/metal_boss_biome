@@ -1,0 +1,20 @@
+{
+  "author": "wondible",
+  "build": "69994-main",
+  "category": ["system-editor", "ui"],
+  "context": "client",
+  "date": "2014/08/04",
+  "description": "Enable the special damaged metal_boss biome from the GW Sychronous.",
+  "display_name": "Damaged Metal Biome",
+  "forum": null,
+  "identifier": "com.wondible.pa.metal_boss_biome",
+  "priority": 100,
+  "scenes": {
+    "system_editor": [
+      "coui://ui/mods/metal_boss_biome/metal_boss_biome.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "1.0.0"
+}
+
