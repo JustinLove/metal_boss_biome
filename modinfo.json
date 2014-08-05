@@ -3,10 +3,10 @@
   "build": "69994-main",
   "category": ["system-editor", "ui"],
   "context": "client",
-  "date": "2014/08/04",
+  "date": "2014/08/05",
   "description": "Enable the special damaged metal_boss biome from the GW Sychronous.",
   "display_name": "Damaged Metal Biome",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/wip-pte-damaged-metal-biome-metal_boss-69994-main.62631/",
   "identifier": "com.wondible.pa.metal_boss_biome",
   "priority": 100,
   "scenes": {
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "0.1.0"
 }
 
